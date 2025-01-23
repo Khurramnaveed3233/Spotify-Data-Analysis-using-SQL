@@ -25,7 +25,7 @@ Key tasks include analyzing track attributes such as danceability, energy, and t
 # 1. Data Exploration
 Before diving into SQL, it’s important to understand the dataset thoroughly. The dataset contains attributes such as:
 
-Artist: The performer of the track.
+- **Artist:** The performer of the track.
 
 Track: The name of the song.
 
