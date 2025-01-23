@@ -59,6 +59,43 @@ Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performan
 # 15 Practice Questions
 
 
+# Findings and Conclusion
 
+Findings:
+
+1. Most Popular Tracks and Artists:
+
+     The tracks with the highest views and streams were identified, revealing the most popular songs on Spotify. Artists with the most tracks and highest overall engagement (views, 
+     likes, and comments) were also highlighted.
+   
+     
+2. Track and Album Characteristics:
+
+     Tracks with specific characteristics, such as high danceability, energy, or liveness, were analyzed. Albums classified as "single" were found to represent a significant portion of 
+     the dataset.
+
+3. Engagement Metrics:
+
+    Tracks with official videos showed a clear correlation with higher engagement, as evidenced by increased views and likes.
+
+Advanced Insights Using Window Functions:
+
+    Window functions provided rankings for the top 3 most-viewed tracks for each artist, giving deeper insights into artist-specific performance.
+
+Statistical Analysis:
+
+   The average danceability of tracks across different albums and the variation in energy levels were calculated, offering insights into musical trends and styles.
+
+Normalization Benefits:
+
+    Normalizing the dataset improved query efficiency and reduced data redundancy, enhancing the overall quality of analysis.
+
+Liveness and Streaming Platforms:
+
+    Tracks with above-average liveness scores were identified, and those streamed more on Spotify than YouTube highlighted platform-specific preferences.
+
+# Conclusion:
+
+This project demonstrated the power of SQL in analyzing and extracting insights from large datasets. By performing a range of queries, from simple aggregations to advanced window functions, we were able to uncover meaningful trends in track popularity, artist performance, and track characteristics. The normalization of the dataset significantly improved the efficiency of querying and ensured data accuracy. The insights derived from this analysis can be leveraged to understand listener preferences, optimize content strategies, and enhance user engagement on music streaming platforms. This project also provided hands-on experience in advanced SQL techniques, solidifying the understanding of query optimization and complex data analysis.
 
 
