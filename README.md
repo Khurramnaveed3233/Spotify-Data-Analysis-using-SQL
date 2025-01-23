@@ -58,7 +58,7 @@ Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performan
 
 # Business Problems and Solutions
 
-#  1. Count the Number of Movies vs TV Shows
+##  1. Count the Number of Movies vs TV Shows
 
 
 
