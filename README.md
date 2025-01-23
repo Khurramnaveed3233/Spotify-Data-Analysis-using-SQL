@@ -10,6 +10,11 @@ This project focuses on analyzing a Spotify dataset containing various attribute
 
 i![schema](https://github.com/user-attachments/assets/ad2c44df-f65f-4f99-8c13-a3204556ed6c)
 
+# Objectives
+
+The primary objective of this SQL project is to analyze a Spotify dataset by leveraging advanced SQL techniques to derive meaningful insights. The project involves normalizing a denormalized dataset to ensure data integrity and optimize performance. It focuses on executing SQL queries of varying complexity, ranging from simple aggregations to advanced queries, such as using window functions, subqueries, and Common Table Expressions (CTEs). Key tasks include analyzing track attributes such as danceability, energy, and tempo, identifying popular tracks, albums, and artists based on views, streams, likes, and comments, and performing attribute-specific analyses to gain deeper insights. Additionally, the project aims to enhance query performance and efficiency while exploring advanced SQL skills to extract actionable insights from the dataset.
+
+
 # Project Steps
 
 1. Data Exploration
@@ -48,6 +53,10 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 Indexing: Adding indexes on frequently queried columns.
 
 Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performance.
+
+
+
+
 
 # 15 Practice Questions
 
