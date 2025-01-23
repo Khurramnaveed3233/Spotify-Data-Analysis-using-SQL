@@ -27,11 +27,11 @@ Before diving into SQL, it’s important to understand the dataset thoroughly. T
 
 - **Artist:** The performer of the track.
 
-Track: The name of the song.
+- **Track:** The name of the song.
 
-Album: The album to which the track belongs.
+_ **Album:** The album to which the track belongs.
 
-Album_type: The type of album (e.g., single or album).
+_ **Album_type:** The type of album (e.g., single or album).
 
 Various metrics such as danceability, energy, loudness, tempo, and more.
 
