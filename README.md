@@ -151,7 +151,11 @@ Liveness and Streaming Platforms:
 
 # Conclusion:
 
-This project demonstrated the power of SQL in analyzing and extracting insights from large datasets. By performing a range of queries, from simple aggregations to advanced window functions, we were able to uncover meaningful trends in track popularity, artist performance, and track characteristics. The normalization of the dataset significantly improved the efficiency of querying and ensured data accuracy. The insights derived from this analysis can be leveraged to understand listener preferences, optimize content strategies, and enhance user engagement on music streaming platforms. This project also provided hands-on experience in advanced SQL techniques, solidifying the understanding of query optimization and complex data analysis.
+This project demonstrated the power of SQL in analyzing and extracting insights from large datasets. By performing a range of queries, from simple aggregations to advanced window functions, we were able to uncover meaningful trends in track popularity, artist performance, and track characteristics. 
+
+The normalization of the dataset significantly improved the efficiency of querying and ensured data accuracy. The insights derived from this analysis can be leveraged to understand listener preferences, optimize content strategies, and enhance user engagement on music streaming platforms. 
+
+This project also provided hands-on experience in advanced SQL techniques, solidifying the understanding of query optimization and complex data analysis.
 
 # This Project is designed and made by Khurram Naveed using SQL
 
