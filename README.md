@@ -56,7 +56,33 @@ Indexing: Adding indexes on frequently queried columns.
 Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performance.
 
 
-# 15 Practice Questions
+# Business Problems and Solutions
+
+1. Count the Number of Movies vs TV Shows
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Findings and Conclusion
