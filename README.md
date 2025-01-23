@@ -59,7 +59,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 
 # Business Problems and Solutions
 
-1. Retrieve the names of all tracks that have more than 1 billion streams
+- 1. Retrieve the names of all tracks that have more than 1 billion streams
    
 ![1](https://github.com/user-attachments/assets/5a2f1978-c73a-4307-a69b-f03e22e6921b)
 
