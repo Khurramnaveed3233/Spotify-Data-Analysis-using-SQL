@@ -18,7 +18,7 @@ The primary objective of this SQL project is to analyze a Spotify dataset by lev
 
 # Project Steps
 
-1. Data Exploration
+# 1. Data Exploration
 Before diving into SQL, it’s important to understand the dataset thoroughly. The dataset contains attributes such as:
 
 Artist: The performer of the track.
