@@ -8,7 +8,7 @@
 
 This project focuses on analyzing a Spotify dataset containing various attributes related to tracks, albums, and artists using SQL. The process involves normalizing a denormalized dataset, executing SQL queries of varying complexity (ranging from simple to advanced), and optimizing query performance. The main objectives of the project are to enhance advanced SQL skills and extract meaningful insights from the dataset.L. 
 
-i![schema](https://github.com/user-attachments/assets/ad2c44df-f65f-4f99-8c13-a3204556ed6c)
+[schema](https://github.com/user-attachments/assets/ad2c44df-f65f-4f99-8c13-a3204556ed6c)
 
 # Objectives
 
