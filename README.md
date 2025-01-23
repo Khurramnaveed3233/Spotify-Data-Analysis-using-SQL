@@ -62,28 +62,53 @@ Query Execution Plan: Using EXPLAIN ANALYZE to review and refine query performan
    
 ![1](https://github.com/user-attachments/assets/5a2f1978-c73a-4307-a69b-f03e22e6921b)
 
+2. List all albums along with their respective artists
 
+![2](https://github.com/user-attachments/assets/91393ba3-e481-4418-ad62-22d2aee0ed9b)
 
+3. Get the total number of comments for tracks where licensed = 1 .
 
+![3](https://github.com/user-attachments/assets/3524a999-59e4-4a3f-a357-79ac6afc1415)
 
+4.  Find all tracks that belong to the album type single
 
+![4](https://github.com/user-attachments/assets/09d82115-82c9-4f09-b5b9-fb18d58c0ca1)
 
+5. Count the total number of tracks by each artist.
 
+![5](https://github.com/user-attachments/assets/87ab84d4-7824-4961-a3f3-844a641b4f15)
 
+6. Calculate the average danceability of tracks in each album
 
+![6](https://github.com/user-attachments/assets/10352e75-f9bc-46b5-aa2c-25e406c29b9f)
 
+7. Find the top 5 tracks with the highest energy values
+   
+![7](https://github.com/user-attachments/assets/5d3108e3-8ffe-495d-8c0d-7927f0649f25)
 
+8. List all tracks along with their views and likes where official_video = 1
 
+![8](https://github.com/user-attachments/assets/a07b3fe6-f44b-4fd4-bf05-4e6bd9649640)
 
+9. For each album, calculate the total views of all associated tracks.
 
+![9](https://github.com/user-attachments/assets/b92743ee-715d-4429-b75b-1122f0058519)
 
+10. Retrieve the track names that have been streamed on Spotify more than YouTube.
 
+![10](https://github.com/user-attachments/assets/afdfeb8e-af8e-431c-9c35-1bad29c99cb7)
 
+11. Find the top 3 most-viewed tracks for each artist using window functions.
 
+![11](https://github.com/user-attachments/assets/7bd8485f-1c20-44c9-906f-35cdb5f40249)
 
+12. Write a query to find tracks where the liveness score is above the average.
 
+![12](https://github.com/user-attachments/assets/3a073cd7-2c15-40d2-8217-77adb3fed740)
 
+13. Use a WITH clause to calculate the difference between the highest and lowest energy values for tracks in each album.
 
+![13](https://github.com/user-attachments/assets/a257b69e-d12f-4d6f-b694-251ff7e521a8)
 
 # Findings and Conclusion
 
